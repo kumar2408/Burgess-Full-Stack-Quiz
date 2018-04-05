@@ -1,0 +1,10 @@
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\Burgess quiz.exe.config
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\obj\Debug\Burgess quiz.csprojResolveAssemblyReference.cache
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\Burgess quiz.exe
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\Burgess quiz.pdb
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\EntityFramework.dll
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\EntityFramework.xml
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\obj\Debug\Burgess quiz.exe
+C:\Users\dines\Desktop\Burgess-quiz-master-master\Burgess quiz\obj\Debug\Burgess quiz.pdb
